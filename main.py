@@ -1,4 +1,3 @@
-
 vechile_milage = int(input("ENTER YOUR VECHILES MILAGE :"))
 todays_fuel_price = int(input("ENTER TODAYS FUEL PRICE :"))
 km_to_travel = int(input("KM YOU WANT TO TRAVEL :"))
